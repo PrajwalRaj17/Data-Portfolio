@@ -1,22 +1,19 @@
-# Project Title
-Personal Finance Analysis
-# About
-A data analysis project using Python and pandas to analyse personal monthly expenses across 6 months, built from a real messy multi-sheet Excel file.
-Skills demonstrated - Python, Pandas, Visualization , Data Cleaning and Analysis 
+## Personal Finance Analysis
+### About
+A data analysis project using Python and pandas to analyse 6 months of personal expenses as an international student in Sydney, Australia. Built from a real messy multi-sheet Excel file with inconsistent formatting and missing values.
+What this project covers
 
-## Data cleaning with pandas
-Handling messy real-world data
-Looping through multiple Excel sheets
-Combining and transforming dataframes
+### Loading and cleaning messy multi-sheet Excel data
+- Looping through multiple sheets and combining into one dataframe
+- Monthly spending analysis and category breakdown
+- Data visualisation using matplotlib
+- Key insights drawn from real personal finance data
 
-## Tools used
+### Key findings
 
-Python
-Pandas
-Jupyter Notebook
+- Rent accounts for 35% of total expenses
+- November was the highest spending month at $1,417 AUD
+- Minimum $975 AUD/month required for living costs in Sydney
 
-## What's coming
-
-Monthly spending analysis
-Category breakdown
-Data visualisation with matplotlib
+### Tools used
+- Python, Pandas, Matplotlib, Jupyter Notebook

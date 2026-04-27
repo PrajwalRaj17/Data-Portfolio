@@ -2,7 +2,7 @@
 Personal Finance Analysis
 # About
 A data analysis project using Python and pandas to analyse personal monthly expenses across 6 months, built from a real messy multi-sheet Excel file.
-Skills demonstrated
+Skills demonstrated - Python, Pandas, Visualization , Data Cleaning and Analysis 
 
 ## Data cleaning with pandas
 Handling messy real-world data

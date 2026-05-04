@@ -40,5 +40,28 @@ using this dataset we will be addressing the following questions
   ### Tools used
 - Python, Pandas, Matplotlib, Jupyter Notebook
 
+# Project 3
+## Customer Service Data
+### About
+The dataset is from the Kaggle platform. The dataset discusses the customer complaints and teams involved in resolving this, with data size of 85,907 "customer service interactions" .As a part of building my portfolio, I used SQL and python to explore what kind of insights can be extracted from customer service data.
+
+### What this project covers
+using this dataset we will be addressing the following questions 
+- Which category has most complaints
+- Which shift is better morning or evening ?
+- Which channel gets most contact?
+- Which category has the lowest average CSAT score?
+- What percentage of contacts come from each channel?
+- Which manager has the best performing team?
+### Key findings
+Returns dominate complaints at 44,097 — more than all other categories combined
+Inbound calls are 79.3% of all contacts — email is barely used at 3.5%
+Split shift agents outperform morning shift agents on CSAT
+Emily Chen's team is the best performing — led by Pamela Robinson at 4.96/5
+"Others" category has the lowest CSAT at 3.43 — unclassified issues frustrate customers most
+
+  ### Tools used
+- Python, Pandas, SQLite3, Jupyter Notebook
+
 
   

@@ -30,12 +30,15 @@ using this dataset we will be addressing the following questions
 - Which cities have the most data science jobs?
 - What's the average salary range?
 - Which industries hire the most data scientists?
-  
+
 ### Key findings
 - SQL (126) and Python (125) are the most in demand skills, appearing in 40% of all job postings
 - Victoria dominates with 302 jobs — more than double Queensland's 121
 - Tasmania has the highest average salary at $113,836 AUD despite having only 26 jobs
 - Banking & Lending leads hiring with 90 jobs, followed by National Services with 83
+
+### View Interactive Dashboard
+- https://public.tableau.com/app/profile/prajwal.selvaraj/viz/Aus_data_science_job_market/Aus_Data_science_job_market?publish=yes
 
   ### Tools used
 - Python, Pandas, Matplotlib, Jupyter Notebook
